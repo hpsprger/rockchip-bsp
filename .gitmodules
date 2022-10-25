@@ -1,15 +1,15 @@
 [submodule "build"]
 	path = build
-	url = ../build.git
+	url = ../build-rk3399.git
 [submodule "rkbin"]
 	path = rkbin
-	url = ../rkbin.git
+	url = ../rkbin-rk3399.git
 [submodule "u-boot"]
 	path = u-boot
-	url = ../u-boot.git
+	url = ../u-boot-rk3399.git
 [submodule "rootfs"]
 	path = rootfs
-	url = ../rk-rootfs-build.git
+	url = ../rk-rootfs-build-rk3399.git
 [submodule "kernel"]
 	path = kernel
-	url = ../kernel.git
+	url = ../kernel-rk3399.git
