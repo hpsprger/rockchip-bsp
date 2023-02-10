@@ -10,3 +10,9 @@
 [submodule "rootfs"]
         path = rootfs
             url = ../rk-rootfs-build-rk3399.git
+[submodule "kernel"]
+	path = kernel
+	url = ../linux_5.10.149_rk3399.git
+[submodule "kernel_4"]
+	path = kernel_4
+	url = ../kernel-rk3399.git
